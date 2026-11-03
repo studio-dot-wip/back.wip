@@ -1,0 +1,10 @@
+{
+  "name": "BACK.WIP",
+  "short_name": "BACK.WIP",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#2b2b33",
+  "theme_color": "#c9c5b5",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
